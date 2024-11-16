@@ -1,4 +1,4 @@
-# Intelligent Document Processing App for Financial Applications**
+# Intelligent Document Processing App for Financial Applications
 
 This project is an **end-to-end intelligent document processing application** designed specifically for financial documents. It automates the extraction, classification, and validation of information from financial PDFs, providing streamlined and accurate results for use in financial analysis.
 
