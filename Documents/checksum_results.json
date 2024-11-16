@@ -1,0 +1,128 @@
+[
+    {
+        "Row": 0,
+        "Previous Balance": 34572.23,
+        "Withdrawal": 0.0,
+        "Deposit": 0.0,
+        "Calculated Balance": 34572.23,
+        "Statement Balance": 34572.23,
+        "Match": true
+    },
+    {
+        "Row": 1,
+        "Previous Balance": 34572.23,
+        "Withdrawal": 670.0,
+        "Deposit": 0.0,
+        "Calculated Balance": 33902.23,
+        "Statement Balance": 33902.23,
+        "Match": true
+    },
+    {
+        "Row": 2,
+        "Previous Balance": 33902.23,
+        "Withdrawal": 0.0,
+        "Deposit": 740.0,
+        "Calculated Balance": 34642.23,
+        "Statement Balance": 34642.23,
+        "Match": true
+    },
+    {
+        "Row": 3,
+        "Previous Balance": 34642.23,
+        "Withdrawal": 347.85,
+        "Deposit": 0.0,
+        "Calculated Balance": 34294.38,
+        "Statement Balance": 34294.38,
+        "Match": true
+    },
+    {
+        "Row": 4,
+        "Previous Balance": 34294.38,
+        "Withdrawal": 75.45,
+        "Deposit": 0.0,
+        "Calculated Balance": 34218.93,
+        "Statement Balance": 34218.93,
+        "Match": true
+    },
+    {
+        "Row": 5,
+        "Previous Balance": 34218.93,
+        "Withdrawal": 0.0,
+        "Deposit": 7245.0,
+        "Calculated Balance": 41463.93,
+        "Statement Balance": 41463.93,
+        "Match": true
+    },
+    {
+        "Row": 6,
+        "Previous Balance": 41463.93,
+        "Withdrawal": 339.96,
+        "Deposit": 0.0,
+        "Calculated Balance": 41123.97,
+        "Statement Balance": 41123.97,
+        "Match": true
+    },
+    {
+        "Row": 7,
+        "Previous Balance": 41123.97,
+        "Withdrawal": 0.0,
+        "Deposit": 3255.0,
+        "Calculated Balance": 44378.97,
+        "Statement Balance": 44378.97,
+        "Match": true
+    },
+    {
+        "Row": 8,
+        "Previous Balance": 44378.97,
+        "Withdrawal": 88.88,
+        "Deposit": 0.0,
+        "Calculated Balance": 44290.09,
+        "Statement Balance": 44290.09,
+        "Match": true
+    },
+    {
+        "Row": 9,
+        "Previous Balance": 44290.09,
+        "Withdrawal": 0.0,
+        "Deposit": 935.0,
+        "Calculated Balance": 45225.09,
+        "Statement Balance": 45225.09,
+        "Match": true
+    },
+    {
+        "Row": 10,
+        "Previous Balance": 45225.09,
+        "Withdrawal": 6493.65,
+        "Deposit": 0.0,
+        "Calculated Balance": 38731.44,
+        "Statement Balance": 38731.44,
+        "Match": true
+    },
+    {
+        "Row": 11,
+        "Previous Balance": 38731.44,
+        "Withdrawal": 1234.98,
+        "Deposit": 0.0,
+        "Calculated Balance": 37496.46,
+        "Statement Balance": 37496.46,
+        "Match": true
+    },
+    {
+        "Row": 12,
+        "Previous Balance": 37496.46,
+        "Withdrawal": 0.0,
+        "Deposit": 18.75,
+        "Calculated Balance": 37515.21,
+        "Statement Balance": 37515.21,
+        "Match": true
+    },
+    {
+        "Row": 13,
+        "Previous Balance": 37515.21,
+        "Withdrawal": 3.75,
+        "Deposit": 0.0,
+        "Calculated Balance": 37511.46,
+        "Statement Balance": 37511.46,
+        "Match": true
+    }
+]

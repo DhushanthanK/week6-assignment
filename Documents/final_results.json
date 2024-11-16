@@ -1,0 +1,56 @@
+{
+    "page_1": {
+        "Classification": [
+            "Bank Statement",
+            97.25
+        ],
+        "Key_information": {
+            "Account Name": ": Photography Business,LLC",
+            "Account Number": ": 0000000098765",
+            "Account Type": ": Checking",
+            "Statement Period": ": 06/01/2022 to 06/30/2022",
+            "Balance on June 1": "ACCOUNT SUMMARY :",
+            "Balance on June 30": ":"
+        },
+        "table_result": "[{\"('Data', 0)\":\"DATE\",\"('Data', 1)\":\"DESCRIPTION\",\"('Data', 2)\":\"WITHDRAWAL\",\"('Data', 3)\":\"DEPOSIT\",\"('Data', 4)\":\"BALANCE\",\"('Confidence', 0)\":0.9986009598,\"('Confidence', 1)\":0.9971905351,\"('Confidence', 2)\":0.9973169565,\"('Confidence', 3)\":0.9977431893,\"('Confidence', 4)\":0.9961571693},{\"('Data', 0)\":null,\"('Data', 1)\":\"Previous Balance\",\"('Data', 2)\":null,\"('Data', 3)\":null,\"('Data', 4)\":\"34,572.23\",\"('Confidence', 0)\":0,\"('Confidence', 1)\":0.9986049533,\"('Confidence', 2)\":0,\"('Confidence', 3)\":0,\"('Confidence', 4)\":0.9993996024},{\"('Data', 0)\":\"06\\/01\",\"('Data', 1)\":\"Rent Bill\",\"('Data', 2)\":\"670.00\",\"('Data', 3)\":null,\"('Data', 4)\":\"33,902.23\",\"('Confidence', 0)\":0.9996032715,\"('Confidence', 1)\":0.9260106683,\"('Confidence', 2)\":0.9978595376,\"('Confidence', 3)\":0,\"('Confidence', 4)\":0.9975945354},{\"('Data', 0)\":\"06\\/03\",\"('Data', 1)\":\"Check No.3456\",\"('Data', 2)\":null,\"('Data', 3)\":\"740.00\",\"('Data', 4)\":\"34,642.23\",\"('Confidence', 0)\":0.9996775389,\"('Confidence', 1)\":0.988773644,\"('Confidence', 2)\":0,\"('Confidence', 3)\":0.9998508096,\"('Confidence', 4)\":0.9994566441},{\"('Data', 0)\":\"06\\/08\",\"('Data', 1)\":\"Electric Bill\",\"('Data', 2)\":\"347.85\",\"('Data', 3)\":null,\"('Data', 4)\":\"34,294.38\",\"('Confidence', 0)\":0.9993704557,\"('Confidence', 1)\":0.9936689138,\"('Confidence', 2)\":0.9959411621,\"('Confidence', 3)\":0,\"('Confidence', 4)\":0.9923531413},{\"('Data', 0)\":\"06\\/13\",\"('Data', 1)\":\"Phone Bill\",\"('Data', 2)\":\"75.45\",\"('Data', 3)\":null,\"('Data', 4)\":\"34,218.93\",\"('Confidence', 0)\":0.9998059273,\"('Confidence', 1)\":0.9761735201,\"('Confidence', 2)\":0.9974986315,\"('Confidence', 3)\":0,\"('Confidence', 4)\":0.9892205},{\"('Data', 0)\":\"06\\/15\",\"('Data', 1)\":\"Deposit\",\"('Data', 2)\":null,\"('Data', 3)\":\"7,245.00\",\"('Data', 4)\":\"41,463.93\",\"('Confidence', 0)\":0.9993866086,\"('Confidence', 1)\":0.9976329207,\"('Confidence', 2)\":0,\"('Confidence', 3)\":0.9959243536,\"('Confidence', 4)\":0.9963546395},{\"('Data', 0)\":\"06\\/18\",\"('Data', 1)\":\"Debit Transaction\",\"('Data', 2)\":\"339.96\",\"('Data', 3)\":null,\"('Data', 4)\":\"41,123.97\",\"('Confidence', 0)\":0.999699235,\"('Confidence', 1)\":0.9806832671,\"('Confidence', 2)\":0.9990546107,\"('Confidence', 3)\":0,\"('Confidence', 4)\":0.9987670183},{\"('Data', 0)\":\"06\\/24\",\"('Data', 1)\":\"Deposit\",\"('Data', 2)\":null,\"('Data', 3)\":\"3,255.00\",\"('Data', 4)\":\"44,378.97\",\"('Confidence', 0)\":0.999809742,\"('Confidence', 1)\":0.9976401925,\"('Confidence', 2)\":0,\"('Confidence', 3)\":0.9814058542,\"('Confidence', 4)\":0.9997712374},{\"('Data', 0)\":\"06\\/25\",\"('Data', 1)\":\"Internet Bill\",\"('Data', 2)\":\"88.88\",\"('Data', 3)\":null,\"('Data', 4)\":\"44,290.09\",\"('Confidence', 0)\":0.9995822906,\"('Confidence', 1)\":0.9671695232,\"('Confidence', 2)\":0.9216815233,\"('Confidence', 3)\":0,\"('Confidence', 4)\":0.9989685416},{\"('Data', 0)\":\"06\\/28\",\"('Data', 1)\":\"Check No.0231\",\"('Data', 2)\":null,\"('Data', 3)\":\"935.00\",\"('Data', 4)\":\"45,225.09\",\"('Confidence', 0)\":0.9995309114,\"('Confidence', 1)\":0.9576305747,\"('Confidence', 2)\":0,\"('Confidence', 3)\":0.9996700287,\"('Confidence', 4)\":0.9991136193},{\"('Data', 0)\":\"06\\/29\",\"('Data', 1)\":\"Payroll Run\",\"('Data', 2)\":\"6,493.65\",\"('Data', 3)\":null,\"('Data', 4)\":\"38,731.44\",\"('Confidence', 0)\":0.9998232126,\"('Confidence', 1)\":0.9851379991,\"('Confidence', 2)\":0.9974534512,\"('Confidence', 3)\":0,\"('Confidence', 4)\":0.9987513423},{\"('Data', 0)\":\"06\\/30\",\"('Data', 1)\":\"Debit Transaction\",\"('Data', 2)\":\"1,234.98\",\"('Data', 3)\":null,\"('Data', 4)\":\"37,496.46\",\"('Confidence', 0)\":0.9997226596,\"('Confidence', 1)\":0.9933763146,\"('Confidence', 2)\":0.9987498522,\"('Confidence', 3)\":0,\"('Confidence', 4)\":0.9931331277},{\"('Data', 0)\":\"06\\/30\",\"('Data', 1)\":\"Interest Earned\",\"('Data', 2)\":null,\"('Data', 3)\":\"18.75\",\"('Data', 4)\":\"37,515.21\",\"('Confidence', 0)\":0.9997490048,\"('Confidence', 1)\":0.9992956519,\"('Confidence', 2)\":0,\"('Confidence', 3)\":0.9024410248,\"('Confidence', 4)\":0.9896012545},{\"('Data', 0)\":\"06\\/30\",\"('Data', 1)\":\"Withholding Tax\",\"('Data', 2)\":\"3.75\",\"('Data', 3)\":null,\"('Data', 4)\":\"37,511.46\",\"('Confidence', 0)\":0.9993857145,\"('Confidence', 1)\":0.9833616614,\"('Confidence', 2)\":0.9963849783,\"('Confidence', 3)\":0,\"('Confidence', 4)\":0.9856044054}]"
+    },
+    "page_2": {
+        "Classification": [
+            "Salary Slip",
+            98.0
+        ],
+        "Key_information": {
+            "Employee Name": "Employee ID Muniraj TDM03 UAN PF No KN/abcd/303",
+            "Designation": "Sr. Member Technical Staff Work Location 985762564222",
+            "Department": "Engineering LOP Days 0.00 Hyderabad",
+            "Date of Joining": "01/04/2011 Worked Days 30.00",
+            "ESI Number": "1005615616 Bank A/c No",
+            "Basic": "",
+            "HRA": "51538.00 20615.00 Income Tax 20210.00",
+            "Conveyance Allowance": "1250.00 800.00",
+            "Medical Allowance": "LTA 10417.00 Special Allowance 32026.00",
+            "Net Pay": "96436.00"
+        },
+        "table_result": ""
+    },
+    "page_3": {
+        "Classification": [
+            "Cheque",
+            100.0
+        ],
+        "Key_information": {
+            "Pay": "HSBC CAR LOAN A/C NO.5893252132",
+            "RUPEES": "9 ONE LAKH TWENTY THREE THOUSAND FIVE",
+            "Prefix": "1515900002"
+        },
+        "table_result": ""
+    },
+    "page_4": {
+        "Classification": [
+            "Utility Bill",
+            100.0
+        ],
+        "Key_information": {},
+        "table_result": "[{\"('Data', 0)\":null,\"('Data', 1)\":\"NEWDELHI MUNICIPAL C\",\"('Data', 2)\":\"ELECTRIO\",\"('Data', 3)\":\"ITYRIL\",\"('Data', 4)\":\"Bill Amount\",\"('Data', 5)\":\"362939.00\",\"('Confidence', 0)\":0,\"('Confidence', 1)\":0.9483569264,\"('Confidence', 2)\":0.8243452907,\"('Confidence', 3)\":0.8493278027,\"('Confidence', 4)\":0.9730632305,\"('Confidence', 5)\":0.9949742556},{\"('Data', 0)\":null,\"('Data', 1)\":\"Palika Kendra, Sansad Marg, New De\",\"('Data', 2)\":\"feurd\",\"('Data', 3)\":null,\"('Data', 4)\":\"Pay By Date\",\"('Data', 5)\":\"30\\/06\\/2015\",\"('Confidence', 0)\":0,\"('Confidence', 1)\":0.9880098701,\"('Confidence', 2)\":0.6012980938,\"('Confidence', 3)\":0,\"('Confidence', 4)\":0.9530818462,\"('Confidence', 5)\":0.9612329602},{\"('Data', 0)\":null,\"('Data', 1)\":\"EX ENG (E) DIV II CPWD\",\"('Data', 2)\":\"Consumer No\",\"('Data', 3)\":\":6201977\",\"('Data', 4)\":\"Bill Date\",\"('Data', 5)\":\"12\\/06\\/2015\",\"('Confidence', 0)\":0,\"('Confidence', 1)\":0.878744185,\"('Confidence', 2)\":0.9745979309,\"('Confidence', 3)\":0.971883595,\"('Confidence', 4)\":0.919613719,\"('Confidence', 5)\":0.9841994047},{\"('Data', 0)\":null,\"('Data', 1)\":\"EX ENG (E) DIV II CPWD IP.\",\"('Data', 2)\":\"Division\",\"('Data', 3)\":null,\"('Data', 4)\":\"CANo\",\"('Data', 5)\":\"2683758834\",\"('Confidence', 0)\":0,\"('Confidence', 1)\":0.88921386,\"('Confidence', 2)\":0.99302876,\"('Confidence', 3)\":0,\"('Confidence', 4)\":0.9687105417,\"('Confidence', 5)\":0.9912579656},{\"('Data', 0)\":null,\"('Data', 1)\":\"ress:\",\"('Data', 2)\":\"Zone \\/ Seat No\",\"('Data', 3)\":\":12\",\"('Data', 4)\":\"Meter Serial No\",\"('Data', 5)\":\"M\\/PE1308\",\"('Confidence', 0)\":0,\"('Confidence', 1)\":0.9900909662,\"('Confidence', 2)\":0.9750046134,\"('Confidence', 3)\":0.8841881156,\"('Confidence', 4)\":0.9929939508,\"('Confidence', 5)\":0.959539175},{\"('Data', 0)\":null,\"('Data', 1)\":null,\"('Data', 2)\":\"Tarit Category\",\"('Data', 3)\":\":8-CS3\",\"('Data', 4)\":\"Supply\\/Con Type\",\"('Data', 5)\":\"JPC\",\"('Confidence', 0)\":0,\"('Confidence', 1)\":0,\"('Confidence', 2)\":0.8661142588,\"('Confidence', 3)\":0.9127516747,\"('Confidence', 4)\":0.9866020083,\"('Confidence', 5)\":0.7886330485}]"
+    }
+}

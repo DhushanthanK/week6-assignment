@@ -1,0 +1,40 @@
+{
+    "page_1": {
+        "Bank Statement": {
+            "matched_keywords": [
+                "Balance on June 1",
+                "Balance on June 30",
+                "Previous Balance",
+                "withdrawal"
+            ],
+            "average_score": 97.25
+        }
+    },
+    "page_2": {
+        "Salary Slip": {
+            "matched_keywords": [
+                "Work Location",
+                "Conveyance Allowance",
+                "Total Net Payable "
+            ],
+            "average_score": 98.0
+        }
+    },
+    "page_3": {
+        "Cheque": {
+            "matched_keywords": [
+                "Cheque",
+                "Please sign above"
+            ],
+            "average_score": 100.0
+        }
+    },
+    "page_4": {
+        "Utility Bill": {
+            "matched_keywords": [
+                "Tariff Category"
+            ],
+            "average_score": 100.0
+        }
+    }
+}
